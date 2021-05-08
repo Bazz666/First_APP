@@ -5,20 +5,12 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version 3.0.1
 
-* System dependencies
+* System dependencies : gem 'rails', '~> 6.1.3', '>= 6.1.3.2'
 
-* Configuration
+* Database creation :Postgresql
 
-* Database creation
+* Heroku Links : https://powerful-ridge-02586.herokuapp.com/ | https://git.heroku.com/powerful-ridge-02586.git
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* github : https://github.com/Bazz666/first_app
